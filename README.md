@@ -1,4 +1,6 @@
 massive-ironman
 ===============
 
-Joulun robokurssin 2014 pohja
+Robottiohjelmoinnin harjoitustyö joulu'14
+
+piäni repotreeni
