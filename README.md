@@ -3,4 +3,4 @@ massive-ironman
 
 Robottiohjelmoinnin harjoitustyö joulu'14
 
-piäni repotreeni
+Juho Kostetin ja Eetu Alastalon harjoitustyö
