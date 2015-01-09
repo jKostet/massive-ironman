@@ -10,5 +10,5 @@ Idea: Kissa ja hiiri -tyyppiset robotit
     helpottanee hiiren ja kissan paikantamista toistensa suhteen,
     sekä sitä onko näiden välillä esteitä.
     
-![Alt text](docs/pictures/suunnitelma_toiminta.jpg "Tavoiteltu toiminta")
-![Alt text](docs/pictures/suunnitelma_robot.jpg "Robottien rakenne")
+![Alt text](docs/pictures/suunnitelma_toiminta.jpg?raw=true "Tavoiteltu toiminta")
+![Alt text](docs/pictures/suunnitelma_robot.jpg?raw=true "Robottien rakenne")
