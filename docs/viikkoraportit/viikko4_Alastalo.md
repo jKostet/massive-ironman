@@ -1,1 +1,1 @@
- 
+Viimeisellä viikolla tuli tehtyä suurin osa robosta. Saatiin robo ja kamera toimimaan jotenkuten yhteistyössä, mutta ohjelmien kaatuilu ja yleinen epävakaus häiritsi työntekoa. Koodi kirjoitettiin myös suurilta osin vikan viikon aikana. Roboa ei saatu toimimaan miten alunperin ajateltiin, mutta ainakin osa tavoitteista saavutettiin.
